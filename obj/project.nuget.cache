@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9EiZL+gQ0DwN+InEUt9cybMqdSppNF0AJJwkJRQ9LXuwmRG3TXZR8mQGTAoR2xiHORXdh8JGi4xbKeXmzUioA==",
+  "success": true,
+  "projectFilePath": "/home/luck/Desktop/bancovava/bancovava.csproj",
+  "expectedPackageFiles": [
+    "/home/luck/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

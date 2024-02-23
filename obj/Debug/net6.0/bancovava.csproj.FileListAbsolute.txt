@@ -1,0 +1,15 @@
+/home/luck/Desktop/bancovava/bin/Debug/net6.0/bancovava
+/home/luck/Desktop/bancovava/bin/Debug/net6.0/bancovava.deps.json
+/home/luck/Desktop/bancovava/bin/Debug/net6.0/bancovava.runtimeconfig.json
+/home/luck/Desktop/bancovava/bin/Debug/net6.0/bancovava.dll
+/home/luck/Desktop/bancovava/bin/Debug/net6.0/ref/bancovava.dll
+/home/luck/Desktop/bancovava/bin/Debug/net6.0/bancovava.pdb
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.csproj.AssemblyReference.cache
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.GeneratedMSBuildEditorConfig.editorconfig
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.AssemblyInfoInputs.cache
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.AssemblyInfo.cs
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.csproj.CoreCompileInputs.cache
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.dll
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/ref/bancovava.dll
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.pdb
+/home/luck/Desktop/bancovava/obj/Debug/net6.0/bancovava.genruntimeconfig.cache
